@@ -1,4 +1,4 @@
-# Tamaroid_Color_Game
+# Color_Game
 It is a "Gamble/Parlor" Game  Seen in the Philippines mostly during "Fiesta" and Christmas Seasons on late 80's and 90's, as of now Some Towns and local Barangays in Provinces are still allowing this type of game (together with BINGO Games, "ROLETA", etc. ) only during Fiesta and NO MINORs are allowed to bet.
 
 # Mechanics
